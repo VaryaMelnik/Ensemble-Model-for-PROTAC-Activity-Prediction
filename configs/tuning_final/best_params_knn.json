@@ -1,0 +1,5 @@
+{
+    "n_neighbors": 6,
+    "weights": "distance",
+    "metric": "cosine"
+}
