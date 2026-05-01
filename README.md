@@ -49,7 +49,7 @@ MCC, with a 13.8% improvement over the best individual classifier.
 ## Data
 
 Training data was compiled from PROTAC-DB. Activity labels were assigned 
-using a hierarchical three-level annotation scheme adapted from [CITATION]:
+using a hierarchical three-level annotation scheme adapted from [http://cadd.zju.edu.cn/protacdb/]:
 
 **Level I — Functional degradation** (preferred when available).  
 A compound is labeled active if DC50 ≤ 1000 nM or Dmax ≥ 70%.
