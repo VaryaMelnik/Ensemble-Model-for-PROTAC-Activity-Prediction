@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML / data — adjust to your needs
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# Large data files
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.sdf
+*.mol2
+
+# Logs and outputs
+logs/
+outputs/
+wandb/
+runs/
+*.log
+
+# Secrets
+.env
+*.key
+config_local.yaml
+
+# RDKit cache
+*.rdkit_cache
