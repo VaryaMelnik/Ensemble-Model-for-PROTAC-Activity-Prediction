@@ -91,7 +91,7 @@ or ternary complex cooperativity.
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/VaryaMelnik/Ensemble-Model-for-PROTAC-Activity-Prediction.git
+cd Ensemble-Model-for-PROTAC-Activity-Prediction
 pip install -r requirements.txt
 ```
